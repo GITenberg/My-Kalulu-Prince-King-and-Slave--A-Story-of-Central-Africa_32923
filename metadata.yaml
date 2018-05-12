@@ -1,0 +1,46 @@
+_repo: My-Kalulu-Prince-King-and-Slave--A-Story-of-Central-Africa_32923
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Harral, Horace
+    alias: Harral, H. (Horace)
+    gutenberg_agent_id: '38731'
+    url: http://www.gutenberg.org/2009/agents/38731
+  - agent_name: Zwecker, Johann Baptist
+    alias: Zwecker
+    birthdate: 1814
+    deathdate: 1876
+    gutenberg_agent_id: '33063'
+    url: http://www.gutenberg.org/2009/agents/33063
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stanley, Henry M. (Henry Morton)
+    aliases:
+    - Rowlands, John
+    - Stanley, H. M. (Henry Morton)
+    - Stanley, Henry Morton, Sir
+    birthdate: 1841
+    deathdate: 1904
+    gutenberg_agent_id: '1714'
+    url: http://www.gutenberg.org/2009/agents/1714
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
+description: A reprint of the novel by Henry Stanley regarding an African prince pressed
+  into slavery. Based on observations made during his historic search for Livingstone.
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Africa, Central -- Fiction'
+- !lcc 'PZ'
+title: 'My Kalulu, Prince, King and Slave: A Story of Central Africa'
+url: http://www.gutenberg.org/ebooks/32923
