@@ -29,6 +29,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
 description: A reprint of the novel by Henry Stanley regarding an African prince pressed
   into slavery. Based on observations made during his historic search for Livingstone.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32923#My-Kalulu-Prince-King-and-Slave--A-Story-of-Central-Africa
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
 identifiers:
